@@ -28,4 +28,8 @@ class Rectangle implements Shape{
         $this->height = $height;
     }
 }
+
+class Octagon implements Shape{
+    protected $
+}
  ?>
