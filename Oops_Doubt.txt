@@ -1,0 +1,1 @@
+1. jab ek php me file me class ka name dursri file me same hota aur waha usme prameters use karte to phele wali file me error q show hota parametars kaa
