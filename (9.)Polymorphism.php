@@ -18,10 +18,14 @@ class Circle implements Shape{
 class Rectangle implements Shape{
     private $width;
     private $height;
-
+    public function  calcArea()
+    {
+        return $this->width * $this->height;
+    }
     public function __construct($width, $height)
     {
-        $this->
+        $this->width = $width;
+        $this->height = $height;
     }
 }
  ?>
